@@ -48,13 +48,13 @@ Projeto desenvolvido como requisito parcial para conclusão do módulo de desenv
 
 # Habilidades
 
-Nesse projeto, você será capaz de:
+Nesse projeto, foram trabalhadas as seguintes habilidades e competências:
 
-* Entender o que são Métodos Ágeis
-* Entender o que é Kanban
-* Entender o que é Scrum
-* Trabalhar em equipes utilizando Kanban ou Scrum de maneira eficaz
-* Praticar todas as habilidades desenvolvidas até agora no módulo de Front-End
+* Entendimento do que são Métodos Ágeis
+* Entendimento do conceito de Kanban
+* Entendimento do conceito de Scrum
+* Trabalho em equipes utilizando Kanban ou Scrum de maneira eficaz
+* Colocar em prática as habilidades técnicas desenvolvidas no módulo de Desenvolvimento Front-End, utilizando React
 
 ---
 
